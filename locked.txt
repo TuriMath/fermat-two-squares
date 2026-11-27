@@ -1,1 +1,4 @@
 # sha256  path. Statements locked after their A<->B PR merged. Lines are only ever added (scripts/gate.py, check 6).
+4a1a7d083bc5df6bdc10ec09247f4ff3b459a1e6e2ff9bf277b8f5ae33e2dbb3  Theorems/FermatTwoSquares/A.lean
+a15b6c19623212066964fed121f34e297c764b1546852c0e00be10dc1a1f354b  Theorems/FermatTwoSquares/B.lean
+5bbe5bbd862f2a8fa92017a9ac6050fe2a49881b8d3f705af69a0a684c1f802b  Theorems/FermatTwoSquares/Equiv.lean
