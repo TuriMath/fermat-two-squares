@@ -2,3 +2,4 @@
 import Theorems.FermatTwoSquares.A
 import Theorems.FermatTwoSquares.B
 import Theorems.FermatTwoSquares.Equiv
+import Theorems.FermatTwoSquares.Proof
